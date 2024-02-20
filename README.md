@@ -1,5 +1,6 @@
 # Optimizing Option Pricing and Implied Volatility with Advanced Neural Networks
-### View our paper here: https://docs.google.com/document/d/18sRz0HMZo8UUbIY-aEIFVk1IOnvKyL0JD0cWpMenAN0/edit?usp=sharing
+### View our paper here: 
+https://docs.google.com/document/d/18sRz0HMZo8UUbIY-aEIFVk1IOnvKyL0JD0cWpMenAN0/edit?usp=sharing
 ## About
 This repository hosts the implementation of our research paper, "Optimizing Option Pricing and Implied Volatility with Advanced Neural Networks," authored by You Xiang Chen, Tin Yu Lu, and Yu Jan Song from the National Tsing Hua University. Our work builds on the seminal efforts of Liu, Oosterlee, and Bohte by integrating advanced methodologies like Optuna for hyperparameter tuning and node pruning for model compression, achieving a 10% improvement in accuracy and a 50% enhancement in computational speed for predicting option prices and implied volatilities.
 
