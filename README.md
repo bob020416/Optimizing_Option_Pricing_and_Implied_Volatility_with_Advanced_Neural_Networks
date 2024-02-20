@@ -28,7 +28,7 @@ To replicate our research findings or utilize our methodologies, please follow t
 
 ```bash
 git clone https://github.com/yourusername/Optimizing-Option-Pricing-and-Implied-Volatility-with-Advanced-Neural-Networks.git
-cd Optimizing_Option_Pricing_with_ANN
+cd Optimizing-Option-Pricing-and-Implied-Volatility-with-Advanced-Neural-Networks
 pip install -r requirements.txt
 ```
 
