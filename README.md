@@ -1,10 +1,11 @@
-# Optimizing Option Pricing and Implied Volatility with Advanced Neural Networks
+![image](https://github.com/bob020416/Optimizing-Option-Pricing-and-Implied-Volatility-with-Advanced-Neural-Networks/assets/82202284/c4be2d97-9804-467b-abff-0454c1cb3027)# Optimizing Option Pricing and Implied Volatility with Advanced Neural Networks
 ### View our paper here: 
 https://docs.google.com/document/d/18sRz0HMZo8UUbIY-aEIFVk1IOnvKyL0JD0cWpMenAN0/edit?usp=sharing
 ## About
 This repository hosts the implementation of our research paper, "Optimizing Option Pricing and Implied Volatility with Advanced Neural Networks," authored by You Xiang Chen, Tin Yu Lu, and Yu Jan Song from the National Tsing Hua University. Our work builds on the seminal efforts of Liu, Oosterlee, and Bohte by integrating advanced methodologies like Optuna for hyperparameter tuning and node pruning for model compression, achieving a 10% improvement in accuracy and a 50% enhancement in computational speed for predicting option prices and implied volatilities.
 
 The substantial increase in computational speed achieved through advanced neural network optimization has significant implications across various domains of finance, especially in High-Frequency Trading (HFT), where decision-making processes are critically time-sensitive. This section explores how the improvements documented in "Optimizing Option Pricing and Implied Volatility with Advanced Neural Networks" can be leveraged in HFT and similar scenarios, enhancing operational efficiency and strategic effectiveness.
+![image](https://github.com/bob020416/Optimizing-Option-Pricing-and-Implied-Volatility-with-Advanced-Neural-Networks/assets/82202284/9b59914c-0b49-4e3d-8f32-ec3a455ff347)
 
 ### Implications for High-Frequency Trading (HFT)
 
